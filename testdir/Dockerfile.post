@@ -1,0 +1,4 @@
+#this is a comment
+# this is also a comment
+FROM ubuntu:18.04
+CMD echo hello
