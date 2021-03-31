@@ -1,2 +1,2 @@
-FROM alpine:3.9
+FROM alpine:3.10
 CMD echo hello
